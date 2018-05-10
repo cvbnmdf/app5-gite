@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 
-  <widget xmlns="http://www.w3.org/ns/widgets"
+  <widget xmlns  ="http://www.w3.org/ns/widgets"
     xmlns:gap="http://phonegap.com/ns/1.0"
-	id="com.phonegap.app5"
-	version="1.0.0">
+	id  ="com.phonegap.app5"
+	version ="1.0.0">
 	
 	<name> app5 Advertencias del dispositivo 2018</name>
 	
@@ -18,7 +18,7 @@
 	<!--Personaliza la aplicacion y plataforma -->
 	<!--<preference name="orientation"   value="default"/>-->
     <preference name="orientation"   value="portrait"/>
-	<!--<!--<preference name="orientation"   value="landscape"/> -->
+	<!--<preference name="orientation"   value="landscape"/> -->
 	<preference name="target-device"   value="universal"/>
     <preference name="fullscreen"   value="true"/>	
 	<preference name="android-installLocation"   value="auto"/>	
